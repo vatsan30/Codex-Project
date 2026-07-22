@@ -133,7 +133,9 @@ The analysis answers several business questions, including:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview 
+
+Example: ![Dashboard Overview]([images/dashboard-overview.png](https://github.com/vatsan30/Codex-Project/blob/main/Screenshot%202026-07-22%20233408.png))
 
 The PowerPoint dashboard includes:
 
